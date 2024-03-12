@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119.82709mm"
+   height="136.91315mm"
+   viewBox="0 0 119.82709 136.91315"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="280.19106"
+     inkscape:cy="295.74741"
+     inkscape:window-width="2560"
+     inkscape:window-height="1506"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#e580a3;fill-opacity:1;stroke:#000000;stroke-width:3.99158;stroke-dasharray:none"
+       id="path38"
+       inkscape:flatsided="false"
+       sodipodi:sides="2"
+       sodipodi:cx="19.314583"
+       sodipodi:cy="138.77396"
+       sodipodi:r1="40.794125"
+       sodipodi:r2="20.397062"
+       sodipodi:arg1="-1.6194592"
+       sodipodi:arg2="-0.04866285"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 17.330207,98.028124 39.687499,137.78177 21.298959,179.51979 -1.0583334,139.76614 Z"
+       transform="matrix(0.77316716,0.62937742,-0.61823075,0.77537319,160.23892,-83.322505)"
+       inkscape:label="ear_2" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e580a3;fill-opacity:1;stroke:#000000;stroke-width:3.99158;stroke-dasharray:none"
+       id="path37"
+       inkscape:flatsided="false"
+       sodipodi:sides="2"
+       sodipodi:cx="19.314583"
+       sodipodi:cy="138.77396"
+       sodipodi:r1="40.794125"
+       sodipodi:r2="20.397062"
+       sodipodi:arg1="-1.6194592"
+       sodipodi:arg2="-0.04866285"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 17.330207,98.028124 39.687499,137.78177 21.298959,179.51979 -1.0583334,139.76614 Z"
+       transform="matrix(0.85562849,-0.51166717,0.51754813,0.84590587,-60.398445,-70.395768)"
+       inkscape:transform-center-y="-1.8639658e-06"
+       inkscape:label="ear_1" />
+    <ellipse
+       style="fill:#f6c3d4;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-dasharray:none"
+       id="path1"
+       cx="59.913544"
+       cy="78.86274"
+       rx="57.929169"
+       ry="56.066025"
+       inkscape:label="head" />
+    <ellipse
+       style="fill:#e580a3;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-dasharray:none"
+       id="path2"
+       cx="59.413544"
+       cy="95.907669"
+       rx="31.93009"
+       ry="23.805355"
+       inkscape:label="nose" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13721"
+       id="ellipse38"
+       cx="68.360657"
+       cy="95.126534"
+       rx="4.181396"
+       ry="12.931964"
+       inkscape:label="nostril_2" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:1.13721"
+       id="path3"
+       cx="50.898148"
+       cy="95.126534"
+       rx="4.181396"
+       ry="12.931964"
+       inkscape:label="nostril_1" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.85208;stroke-dasharray:none"
+       id="rect39"
+       width="70.789864"
+       height="6"
+       x="24.17116"
+       y="52.328762"
+       inkscape:label="eyebrow" />
+  </g>
+</svg>
